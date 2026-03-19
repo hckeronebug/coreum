@@ -1,4 +1,4 @@
-# Coreum Blockchain
+#Coreum Blockchain
 
 Coreum addresses the existing limitations of the current blockchains and empowers a solid foundation for future decentralized projects.
 Coreum’s unique approach is to provide built-in, on-chain solutions to process transactions in a deterministic way to ensure fast, secure, cheap and a green network for a variety of use-cases.
